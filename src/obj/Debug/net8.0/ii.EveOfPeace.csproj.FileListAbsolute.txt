@@ -1,0 +1,11 @@
+E:\source\iiEveOfPeace\src\bin\Debug\net8.0\ii.EveOfPeace.deps.json
+E:\source\iiEveOfPeace\src\bin\Debug\net8.0\ii.EveOfPeace.dll
+E:\source\iiEveOfPeace\src\bin\Debug\net8.0\ii.EveOfPeace.pdb
+E:\source\iiEveOfPeace\src\obj\Debug\net8.0\ii.EveOfPeace.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\iiEveOfPeace\src\obj\Debug\net8.0\ii.EveOfPeace.AssemblyInfoInputs.cache
+E:\source\iiEveOfPeace\src\obj\Debug\net8.0\ii.EveOfPeace.AssemblyInfo.cs
+E:\source\iiEveOfPeace\src\obj\Debug\net8.0\ii.EveOfPeace.csproj.CoreCompileInputs.cache
+E:\source\iiEveOfPeace\src\obj\Debug\net8.0\ii.EveOfPeace.dll
+E:\source\iiEveOfPeace\src\obj\Debug\net8.0\refint\ii.EveOfPeace.dll
+E:\source\iiEveOfPeace\src\obj\Debug\net8.0\ii.EveOfPeace.pdb
+E:\source\iiEveOfPeace\src\obj\Debug\net8.0\ref\ii.EveOfPeace.dll
