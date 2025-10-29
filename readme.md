@@ -3,9 +3,22 @@
 
 iiEveOfPeace is a C# library supporting the modification of files relating to 7th Legion, the 1997 RTS game developed by Vision Software.
 
-| Name   | Read | Write | Comment
-|--------|:----:|-------|--------
-| SGA    | ✔   |   ✗   | 
+| Name       | Read | Write | Comment
+|------------|:----:|-------|--------
+| COLOURS    | ✗   |   ✗   | LUA
+| CON        | ✗   |   ✗   | LUA
+| DDS        | ✗   |   ✗   | Standard DDS
+| FDA        | ✗   |   ✗   | 
+| LUA        | ✗   |   ✗   | LUA
+| RAT        | ✗   |   ✗   | 
+| RSH        | ✗   |   ✗   | 
+| SCREEN     | ✗   |   ✗   | LUA
+| SGA        | ✔   |   ✗   | 
+| TGA        | ✗   |   ✗   | Standard TGA
+| UCS        | ✗   |   ✗   | Plain text (unicode)
+| WHE        | ✗   |   ✗   | 
+| WHM        | ✗   |   ✗   | 
+| WTP        | ✗   |   ✗   | 
 
 
 ## Usage
