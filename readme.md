@@ -10,7 +10,7 @@ iiEveOfPeace is a C# library supporting the modification of files relating to 7t
 | DDS        | ✗   |   ✗   | Standard DDS
 | FDA        | ✗   |   ✗   | 
 | LUA        | ✗   |   ✗   | LUA
-| RAT        | ✗   |   ✗   | 
+| RAT        | ✗   |   ✗   | Plain text
 | RSH        | ✗   |   ✗   | 
 | SCREEN     | ✗   |   ✗   | LUA
 | SGA        | ✔   |   ✗   | 
