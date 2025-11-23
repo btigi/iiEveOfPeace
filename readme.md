@@ -1,4 +1,4 @@
-﻿iiEighthSolitude
+﻿iiEveOfPeace
 =========
 
 iiEveOfPeace is a C# library supporting the modification of files relating to 7th Legion, the 1997 RTS game developed by Vision Software.
